@@ -23,5 +23,5 @@ def sum_csv(file_name):
     return overall_sum
 
 # controlliamo se funziona (a video)
-nome_file = 'shampoo_sales.csv'
-print(sum_csv(nome_file))
+#nome_file = 'shampoo_sales.csv'
+#print(sum_csv(nome_file))
