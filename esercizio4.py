@@ -26,5 +26,5 @@ class CSVFile():
         return(overall_list)
 
 # controlliamo se funziona (a video)
-#csv_file = CSVFile('shampoo_sales.csv')
-#print(csv_file.get_data())
+csv_file = CSVFile('shampoo_sales.csv')
+print(csv_file.get_data())
